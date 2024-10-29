@@ -61,7 +61,7 @@ We welcome contributions! To get started:
 5. Open a pull request.
 
 ### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the Proprietary License. See the LICENSE file for more information.
 
 ### 📝 Acknowledgements
 This project was built with Next.js and inspired by the need for simple, high-quality image sharing.
