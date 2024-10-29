@@ -1,6 +1,6 @@
 # 🍀 Share mint
 
-**Share mint** is a web application that makes sharing high-quality images with friends, family, or colleagues easy and convenient. Unlike traditional messaging or social media apps, which compress images, PureShare ensures your photos retain their original quality. Simply upload an image, receive a unique link, and share it with anyone. When the recipient clicks on the link, they’ll be able to download the full-resolution image directly.
+**Share mint** is a web application that makes sharing high-quality images with friends, family, or colleagues easy and convenient. Unlike traditional messaging or social media apps, which compress images, Share mint ensures your photos retain their original quality. Simply upload an image, receive a unique link, and share it with anyone. When the recipient clicks on the link, they’ll be able to download the full-resolution image directly.
 
 ---
 
@@ -27,8 +27,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/pureshare.git
-   cd pureshare
+   git clone https://github.com/your-username/Share mint.git
+   cd Share mint
 
 2. **Install the dependencies**
     ```bash
@@ -66,4 +66,4 @@ This project is licensed under the Proprietary License. See the LICENSE file for
 ### 📝 Acknowledgements
 This project was built with Next.js and inspired by the need for simple, high-quality image sharing.
 
-Enjoy using PureShare? Don’t forget to ⭐ the repo and share your thoughts with us!
+Enjoy using Share mint? Don’t forget to ⭐ the repo and share your thoughts with us!
