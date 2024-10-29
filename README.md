@@ -27,8 +27,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Share mint.git
-   cd Share mint
+   git clone https://github.com/your-username/Share-mint.git
+   cd Share-mint
 
 2. **Install the dependencies**
     ```bash
